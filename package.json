@@ -17,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/Olatundun19/COMP2156/issues"
   },
-  "homepage": "https://github.com/Olatundun19/COMP2156#readme"
+  "homepage": "https://github.com/Olatundun19/COMP2156#readme",
+
+"dependencies": {
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0",
+  "react-scripts": "5.0.1"
 }
+
+}
+
